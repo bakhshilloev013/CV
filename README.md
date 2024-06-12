@@ -44,6 +44,13 @@ Experienced mentor in the field of frontend development. I have some experience 
 **Menthor**
 *March 2023 - now*
 
+## Projects
+### [Project Shelter](https://strong-cannoli-3bddd2.netlify.app/)
+This project I made to demonstrate my skills in HTML, CSS, and JavaScript
+
+### Other projects will be deployed soon...
+
+
 ## Education
 
 ### Bukhara Engineering-Technological Institute
